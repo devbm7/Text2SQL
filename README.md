@@ -4,7 +4,7 @@
 
 Text2SQL is an interactive Streamlit application that allows users to query CSV data using natural language. The application converts user questions into SQL queries, executes them against a SQLite database, and displays the results.
 
-[!diagram.png]
+![Project Diagram](diagram.png)
 
 ## Features
 
